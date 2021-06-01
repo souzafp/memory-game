@@ -1,5 +1,6 @@
 # memory-game
 This app is being developed in Swift/SwiftUI.
 
-This material is part of Stanford University's "S193p - Developing Apps for iOS" course with lectures by Paul Hegarty. Classes are free on Youtube.
+This app is being developed according to my study in the course "S193p - Developing Apps for iOS" at Stanford University, with lectures by Paul Hegarty.
+The lectures are free on Youtube.
 https://cs193p.sites.stanford.edu/
